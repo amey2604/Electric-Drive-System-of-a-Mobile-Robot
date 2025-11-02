@@ -1,7 +1,7 @@
 # Master's Thesis - Design and Implementation of a Cost-Efficient Drive System for Mobile Urban Delivery Robots
 **Technische Hochschule Deggendorf, Germany**
 
-This repository showcases selected results, images, and control code excerpts from my Master’s Thesis project, which focused on developing a cost-efficient, ROS 2-integrated drive system for a differential-drive mobile delivery robot.
+This repository showcases selected results & images from my Master’s Thesis project, which focused on developing a cost-efficient, ROS 2-integrated drive system for a differential-drive mobile delivery robot.
 
 ---
 
